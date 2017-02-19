@@ -13,9 +13,9 @@ Prog.kiev.ua. Java Start. Группа 46
 
 ## Видео лекций предыдущих групп
 
-[Видеозапись лекций](https://mega.nz/#F!SRclnQQT!B8QCc6CGg8_luB6VkWr3mg)
+[Видеозапись лекций](https://mega.nz/#F!SRclnQQT)
 
-[Аудиозапиь лекций](https://mega.nz/#F!GY8UjTBS!Houco7kx4JmicDW50DujbA)
+[Аудиозапиь лекций](https://mega.nz/#F!GY8UjTBS)
 
 ## Примеры кода
 
