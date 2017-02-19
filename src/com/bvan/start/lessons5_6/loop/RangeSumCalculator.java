@@ -9,11 +9,16 @@ public class RangeSumCalculator {
         int from = 1;
         int to = 5;
 
+        int sum = sum(from, to);
+
+        System.out.println("sum = " + sum);
+    }
+
+    private static int sum(int from, int to) {
         int sum = 0;
         for (int n = from; n <= to; n++) {
             sum += n;
         }
-
-        System.out.println("sum = " + sum);
+        return sum;
     }
 }

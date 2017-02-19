@@ -20,6 +20,6 @@ public class SumGame {
             sum += n;
         } while (n != 0);
 
-        System.out.println("sum = " + sum);
+        System.out.println("sumWithoutForeach = " + sum);
     }
 }

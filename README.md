@@ -7,7 +7,9 @@ Prog.kiev.ua. Java Start. Группа 46
 
 [Java Start. Богдан. Группа 46. Лекции 3-4 (04.02.2017)](https://prog.kiev.ua/forum/index.php/topic,2748.0.html)
 
-[Java Start. Богдан. Группа 46. Лекции 5-6 (11.02.2017)](https://prog.kiev.ua/forum/index.php?topic=2761.0)
+[Java Start. Богдан. Группа 46. Лекции 5-6 (11.02.2017)](https://prog.kiev.ua/forum/index.php/topic,2761.0.html)
+
+[Java Start. Богдан. Группа 46. Лекции 7-8 (18.02.2017)](https://prog.kiev.ua/forum/index.php/topic,2779.0.html)
 
 ## Видео лекций предыдущих групп
 
@@ -17,4 +19,4 @@ Prog.kiev.ua. Java Start. Группа 46
 
 ## Примеры кода
 
-https://github.com/bohdanvan/javastart-group46
+https://github.com/bohdanvan/javastart
